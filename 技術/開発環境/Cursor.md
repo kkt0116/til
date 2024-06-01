@@ -29,7 +29,7 @@
       - バックエンドの不正利用を防ぐため、AI機能を使用する際にはログインをお願いしています。今はスキップすることもできます。とのこと
       
 ## Welcome
-閉じちゃったら Cursor 起動しなおすと出てくる
+閉じちゃったら Cursor 起動しなおすと出てくる  
 ![image](https://github.com/kkt0116/til/assets/97575675/8d05ecc1-43a9-43b4-bc4a-2a671a468269)
 
 1. Finish onboarding: なんか終わってた。初期設定？
@@ -40,4 +40,10 @@
 
 ## 設定
 ### Git
-- 入れてなかったのでPCに導入 > [Git](./Git.md) 参照
+1. 入れてなかったのでPCに導入 > [Git](./Git.md) 参照
+     - Cursor をエディタとして設定
+2. reload をクリック
+     - ![image](https://github.com/kkt0116/til/assets/97575675/e48be964-8167-4230-a3b6-b944ee156890)
+3. Folder を開いている場合は閉じて、`Gtrl + Shift + G' or ツールバーの View > Source Control
+4. Clone Repository から、Github と連携させて、このリポジトリをクローン。完了！
+
