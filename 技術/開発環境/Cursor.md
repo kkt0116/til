@@ -14,7 +14,7 @@
         - e.g.) ファイルをまたがった定義で正確な場所を特定して回答
         - e.g.) プロジェクト全体の依存関係や構造を理解した上で、コードの最適化やバグ修正をアドバイス
         - e.g.) 質問の文脈に基づいて、関連するコードスニペットやドキュメントを提示
-    - Command Line: コマンドラインを使用して Cursor を開けるようにする登録。cursor を登録
+    - Command Line: コマンドラインを使用して Cursor を開けるようにする登録。cursor を登録$$
       - e.g.) cursor登録 → `cursor .` で現在のディレクトリを Cursor で開けて便利
       - ![image](https://github.com/kkt0116/til/assets/97575675/d7f5c77f-a824-4d0d-90b8-2a647e57dabe)
         - PCに変更を加えている。システム環境変数の Path に以下が登録されていた
@@ -47,3 +47,5 @@
 3. Folder を開いている場合は閉じて、`Gtrl + Shift + G' or ツールバーの View > Source Control
 4. Clone Repository から、Github と連携させて、このリポジトリをクローン。完了！
 
+### 色設定
+- File > Preferences > Theme > Color Theme で選択（`Ctrl + M` `Ctrl + T`）
